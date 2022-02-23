@@ -1,9 +1,12 @@
 import React from "react";
+import { Menu } from "./components/Menu";
 
 function App() {
   return (
-<h1>Hello World! hehehe</h1>
+    <Menu/>
+
   );
 }
 
 export default App;
+//
