@@ -3,13 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import MuiDrawer from './MuiDrawer'
+import MuiDrawer from './MuiDrawer';
+import Body from './Body';
 
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <MuiDrawer/>
+    <Body/>
     
 
   </React.StrictMode>,

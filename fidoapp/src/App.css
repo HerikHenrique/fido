@@ -3,29 +3,33 @@
 }
 
 .makeStyles-drawerPaper-6 {
-  background-color: aquamarine;
-}
-
-.makeStyles-drawerPaper-6 {
   padding-left: 15px;
 
 }
 
-#root > div.makeStyles-root-1 > header > div {
-  background-color: rgb(230, 233, 231);
-}
-
 #root > div.makeStyles-root-1 > nav > div.PrivateHiddenCss-xsDown-10 > div > div {
-  /* background-color: blue; */
   border-radius: 30px;
   margin: 10px;
 }
 
-.makeStyles-content-7 {
-  background-color: blueviolet;
-  margin-left: 40px;
-}
-
 #root > div.makeStyles-root-1 > header > div {
   margin-left: 40px;
+  margin-top: 60px;
+}
+
+.MuiAppBar-colorPrimary{
+  background-color: aliceblue;
+}
+
+#root > div.makeStyles-root-1 > header{
+  display: none;
+  background-color: rgb(187, 221, 177);
+}
+
+table {
+
+}
+
+#root > div.MuiPaper-root.MuiTableContainer-root.MuiPaper-elevation1.MuiPaper-rounded > table{
+
 }
